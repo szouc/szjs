@@ -1,1 +1,1 @@
-# szjs
+# JavaScript Algorithm
